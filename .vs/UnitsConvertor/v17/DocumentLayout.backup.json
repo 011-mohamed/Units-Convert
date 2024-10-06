@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|c:\\users\\mehdy\\source\\repos\\unitsconvertor\\unitsconvertor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|solutionrelative:unitsconvertor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|c:\\users\\mehdy\\source\\repos\\unitsconvertor\\unitsconvertor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|solutionrelative:unitsconvertor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|c:\\users\\mehdy\\source\\repos\\unitsconvertor\\unitsconvertor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBE60A0F-9963-422B-AD5F-66C0F6E8742B}|UnitsConvertor\\UnitsConvertor.csproj|solutionrelative:unitsconvertor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UnitsConvertor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UnitsConvertor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAcwMcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:25:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UnitsConvertor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\MainWindow.xaml",
+              "RelativeToolTip": "UnitsConvertor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T23:03:19.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\App.xaml",
+              "RelativeDocumentMoniker": "UnitsConvertor\\App.xaml",
+              "ToolTip": "C:\\Users\\mehdy\\source\\repos\\UnitsConvertor\\UnitsConvertor\\App.xaml",
+              "RelativeToolTip": "UnitsConvertor\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T23:11:51.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
